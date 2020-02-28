@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class CaesarCipherTest {
     private CaesarCipher caesarCipher = new CaesarCipher();
-    @Test
+//    @Test
 //    void testForEncode() {
 //        assertEquals("hello world",caesarCipher.input("tqxxa iadxp",12));
 //    }
