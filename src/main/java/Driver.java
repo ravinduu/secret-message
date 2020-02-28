@@ -2,7 +2,7 @@ public class Driver {
     public static void main(String[] args) {
         CaesarCipher caesarsCipher = new CaesarCipher();
 
-        String message = "Hello world";
+        String message = "tqxxa iadxp";
         int shift = 12;
 
         String output = caesarsCipher.input(message,shift);
