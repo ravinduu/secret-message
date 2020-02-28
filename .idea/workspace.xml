@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1e59ea6-33cb-4885-957a-af24c2823cf4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gui/FrontEnd.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gui/FrontEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/FrontEnd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,22 +120,22 @@
       <screen x="0" y="20" width="1366" height="748" />
     </state>
     <state x="283" y="56" key="#Project_Structure/0.20.1366.748@0.20.1366.748" timestamp="1582870534481" />
-    <state width="1320" height="185" key="GridCell.Tab.0.bottom" timestamp="1582870504923">
+    <state width="1016" height="185" key="GridCell.Tab.0.bottom" timestamp="1582875112757">
       <screen x="0" y="20" width="1366" height="748" />
     </state>
-    <state width="1320" height="185" key="GridCell.Tab.0.bottom/0.20.1366.748@0.20.1366.748" timestamp="1582870504923" />
-    <state width="1320" height="185" key="GridCell.Tab.0.center" timestamp="1582870504921">
+    <state width="1016" height="185" key="GridCell.Tab.0.bottom/0.20.1366.748@0.20.1366.748" timestamp="1582875112757" />
+    <state width="1016" height="185" key="GridCell.Tab.0.center" timestamp="1582875112756">
       <screen x="0" y="20" width="1366" height="748" />
     </state>
-    <state width="1320" height="185" key="GridCell.Tab.0.center/0.20.1366.748@0.20.1366.748" timestamp="1582870504921" />
-    <state width="1320" height="185" key="GridCell.Tab.0.left" timestamp="1582870504921">
+    <state width="1016" height="185" key="GridCell.Tab.0.center/0.20.1366.748@0.20.1366.748" timestamp="1582875112756" />
+    <state width="1016" height="185" key="GridCell.Tab.0.left" timestamp="1582875112756">
       <screen x="0" y="20" width="1366" height="748" />
     </state>
-    <state width="1320" height="185" key="GridCell.Tab.0.left/0.20.1366.748@0.20.1366.748" timestamp="1582870504921" />
-    <state width="1320" height="185" key="GridCell.Tab.0.right" timestamp="1582870504922">
+    <state width="1016" height="185" key="GridCell.Tab.0.left/0.20.1366.748@0.20.1366.748" timestamp="1582875112756" />
+    <state width="1016" height="185" key="GridCell.Tab.0.right" timestamp="1582875112757">
       <screen x="0" y="20" width="1366" height="748" />
     </state>
-    <state width="1320" height="185" key="GridCell.Tab.0.right/0.20.1366.748@0.20.1366.748" timestamp="1582870504922" />
+    <state width="1016" height="185" key="GridCell.Tab.0.right/0.20.1366.748@0.20.1366.748" timestamp="1582875112757" />
     <state x="137" y="80" key="MergeDialog" timestamp="1582870459976">
       <screen x="0" y="20" width="1366" height="748" />
     </state>
@@ -154,5 +164,9 @@
       <screen x="0" y="20" width="1366" height="748" />
     </state>
     <state x="347" y="174" key="run.anything.popup/0.20.1366.748@0.20.1366.748" timestamp="1582870633175" />
+    <state x="805" y="45" width="672" height="676" key="search.everywhere.popup" timestamp="1582874387457">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state x="805" y="45" width="672" height="676" key="search.everywhere.popup/0.20.1366.748@0.20.1366.748" timestamp="1582874387457" />
   </component>
 </project>
