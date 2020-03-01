@@ -7,7 +7,7 @@ public class CaesarCipher {
         return decode(message,shift);
     }
 
-    private String decode(String message, int shift) {
+    protected String decode(String message, int shift) {
         char[] messageArray = message.trim().toLowerCase().toCharArray();
 
         for(int i = 0; i < messageArray.length; i++){
@@ -26,7 +26,7 @@ public class CaesarCipher {
         return c;
     }
 
-    private String encode(String message, int shift) {
+    protected String encode(String message, int shift) {
         char[] messageArray = message.trim().toLowerCase().toCharArray();
 
         for(int i = 0; i < messageArray.length; i++){
