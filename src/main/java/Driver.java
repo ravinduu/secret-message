@@ -1,5 +1,3 @@
-import gui.FrontEnd;
-
 public class Driver {
     public static void main(String[] args) {
         CaesarCipher caesarsCipher = new CaesarCipher();
