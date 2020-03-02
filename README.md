@@ -13,3 +13,8 @@ secret-message/build/classes/java/main/  | Contains all the Classes
 secret-message/lib/ | Contains all the Libraries
 secret-message/src/main/java/ | Contains all the Source Codes
 secret-message/src/test/java/ | Contains all the Test Cases
+
+# How to use
+Download the secretMessage.jre file and double click on it.
+
+# Interface
