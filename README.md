@@ -1,5 +1,5 @@
-# secret-message
-secret message is a simple tool that Encrypt and Decrypt messages using Caesar cipher.
+# Secret Message
+Secret Message is a simple tool that Encrypt and Decrypt messages using Caesar cipher.
 
 
 # Caesar cipher
