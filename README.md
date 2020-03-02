@@ -9,12 +9,29 @@ In cryptography, a Caesar cipher, also known as Caesar's cipher, the shift ciphe
 # Folder Structure
 |Path |Contain |
 |--------|------------|
-secret-message/build/classes/java/main/  | Contains all the Classes
-secret-message/lib/ | Contains all the Libraries
-secret-message/src/main/java/ | Contains all the Source Codes
-secret-message/src/test/java/ | Contains all the Test Cases
+
+build/classes/java/main/  | Contains all the Classes
+lib/ | Contains all the Libraries
+src/main/java/ | Contains all the Source Codes
+src/test/java/ | Contains all the Test Cases
+images/ | Contains all the Images
 
 # How to use
-Download the secretMessage.jre file and double click on it.
+Download the SecretMessage.jre file and double click on it. [SecretMessage](https://github.com/ravdsn/secret-message/tree/master/SecretMessageJRE)
 
 # Interface
+
+### Front
+![](images/front.png)
+
+### Encode
+![](images/encode1.png)
+![](images/encode2.png)
+
+### Decode
+![](images/decode1.png)
+![](images/decode2.png)
+
+### Clear
+![](images/clear1.png)
+![](images/front.png)
