@@ -9,7 +9,6 @@ In cryptography, a Caesar cipher, also known as Caesar's cipher, the shift ciphe
 # Folder Structure
 |Path |Contain |
 |--------|------------|
-
 build/classes/java/main/  | Contains all the Classes
 lib/ | Contains all the Libraries
 src/main/java/ | Contains all the Source Codes
