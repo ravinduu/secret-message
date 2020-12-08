@@ -24,3 +24,5 @@ jobs:
       run: chmod +x gradlew
     - name: Build with Gradle
       run: ./gradlew build
+    - name: Build and push Docker images
+      uses: docker/build-push-action@v2.2.1
