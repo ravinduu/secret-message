@@ -31,6 +31,6 @@ Download the SecretMessage.jre file and double click on it. [SecretMessage](http
 ![](images/decode1.png)
 ![](images/decode2.png)
 
-### Clear
+### Clear 
 ![](images/clear1.png)
 ![](images/front.png)
